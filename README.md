@@ -1,0 +1,2 @@
+# affine-cipher-decrypter
+The following ciphertext was encrypted by an affine cipher:  edsgickxhuklzveqzvxwkzukcvuh  Furthermore, it is given that the plaintext begins with the word 'if'. Solve the parameters for the affine cipher and write a C++ program that decrypts the ciphertext. Your program must print the phrase:  The plaintext was: plaintextgoeshere  (replace plaintextgoeshere with the actual recovered plaintext). 
